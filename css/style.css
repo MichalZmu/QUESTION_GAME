@@ -1,0 +1,36 @@
+.header-content {
+    height: 200px;
+    background-color: red;
+}
+
+.header-main-text {
+    color: white;
+    padding-top: 72px;
+}
+
+.main-content {
+    margin-top: 50px;
+}
+
+.main-content button {
+    margin-top: 20px;
+}
+
+.choose-option {
+    margin-top: 30px;
+}
+
+.choose-option h1 span {
+     cursor:pointer;
+}
+
+.question-div {
+    display: none;
+    margin-top: 40px;
+}
+
+.question-div button {
+    display:inline;
+    margin-top: 20px;
+    
+}
